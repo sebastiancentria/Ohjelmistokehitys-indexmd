@@ -29,7 +29,6 @@ Well, do I have [the website for you][another fun place]!
 ![Orange cat][Orange]
 
 [Black]: https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg
-
 [Orange]: http://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22221-cat-icon.png
 
 >"I read this interesting quote the other day:
@@ -90,3 +89,4 @@ If you _do_ make a mess, use a towel to clean it up!
 2. Pour a gallon of milk into the bowl.  
 
 Basically, take the same guidance as above: don't be messy, but if you are, clean it up!
+
