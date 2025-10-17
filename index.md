@@ -23,9 +23,13 @@ Well, do I have [the website for you][another fun place]!
 [another fun place]: https://www.stumbleupon.com
 
 ![A pretty tiger](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
+
 ![Black cat][Black]
+
 ![Orange cat][Orange]
+
 [Black]: https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg
+
 [Orange]: http://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22221-cat-icon.png
 
 >"I read this interesting quote the other day:
@@ -84,4 +88,5 @@ Now, you're going to want to crack the eggs in such a way that you don't make a 
 If you _do_ make a mess, use a towel to clean it up!
 
 2. Pour a gallon of milk into the bowl.  
+
 Basically, take the same guidance as above: don't be messy, but if you are, clean it up!
